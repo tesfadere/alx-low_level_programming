@@ -2,10 +2,10 @@
 /**
  *main - entry point
  *
- *return 0 
+ *return0 when it prints  
 */
-int main(void)
+int main()
 {
- puts("\"Programming is like building a multilingual puzzle");
- return 0;
+puts("\"Programming is like building a multilingual puzzle");
+return (0);
 }
