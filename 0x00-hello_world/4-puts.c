@@ -2,9 +2,9 @@
 /**
  *main - entry point
  *
- *return0 when it prints  
-*/
-int main()
+ *  
+**/
+int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
 return (0);
